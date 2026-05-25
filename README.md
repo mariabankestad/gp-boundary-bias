@@ -102,12 +102,11 @@ python experiments/compute_bo_2d.py && python figures/plot_bo_2d.py
 ## Citation
 
 ```bibtex
-@misc{bankestad2026boundary,
+@unpublished{bankestad2026boundary,
   title  = {Boundary Variance Inflation Causes Acquisition Bias in Gaussian Processes},
   author = {Bånkestad, Maria and Jarl, Sana and Sjölund, Jens},
   year   = {2026},
-  eprint = {arXiv:TODO},
-  note   = {Preprint; arXiv identifier to be added}
+  note   = {Manuscript in preparation}
 }
 ```
 
