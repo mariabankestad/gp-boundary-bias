@@ -1,0 +1,10 @@
+# Tested with the versions pinned below; nearby versions should also work.
+torch>=2.2
+gpytorch>=1.11
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+
+# Optional: only needed to run notebooks/tutorial.ipynb
+# jupyter
